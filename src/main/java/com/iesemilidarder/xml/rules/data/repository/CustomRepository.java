@@ -1,4 +1,4 @@
-package com.iesemilidarder.xml.rules.repository;
+package com.iesemilidarder.xml.rules.data.repository;
 
 /**
  * com.iesemilidarder.xml.rules.repository

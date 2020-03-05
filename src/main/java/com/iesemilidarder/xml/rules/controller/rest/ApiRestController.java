@@ -1,4 +1,4 @@
-package com.iesemilidarder.xml.rules.controller;
+package com.iesemilidarder.xml.rules.controller.rest;
 
 import com.iesemilidarder.xml.rules.data.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;

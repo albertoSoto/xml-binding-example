@@ -1,8 +1,8 @@
 package com.iesemilidarder.xml.rules;
 
 import com.iesemilidarder.xml.rules.data.User;
-import com.iesemilidarder.xml.rules.repository.CustomRepository;
-import com.iesemilidarder.xml.rules.repository.UserRepository;
+import com.iesemilidarder.xml.rules.data.repository.CustomRepository;
+import com.iesemilidarder.xml.rules.data.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

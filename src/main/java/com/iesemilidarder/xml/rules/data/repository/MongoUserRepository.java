@@ -1,4 +1,4 @@
-package com.iesemilidarder.xml.rules.repository;
+package com.iesemilidarder.xml.rules.data.repository;
 
 import com.iesemilidarder.xml.rules.data.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
@@ -8,13 +8,13 @@ import java.util.List;
 
 /**
  * com.iesemilidarder.xml.rules.service
- * Class UserRepository
+ * Class MongoUserRepository
  * 28/05/2019
  *
  * @author berto (alberto.soto@gmail.com)
  */
 
-public interface UserRepository extends MongoRepository<User, String> {
+public interface MongoUserRepository extends MongoRepository<User, String> {
 
     User findFirstByName(String name);
 

@@ -1,4 +1,4 @@
-package com.iesemilidarder.xml.rules.controller;
+package com.iesemilidarder.xml.rules.controller.mvc;
 
 import com.iesemilidarder.xml.rules.data.Restaurant;
 import com.iesemilidarder.xml.rules.marshalling.DataFileHelper;

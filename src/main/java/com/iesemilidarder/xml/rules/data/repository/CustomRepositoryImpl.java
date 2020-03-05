@@ -1,4 +1,4 @@
-package com.iesemilidarder.xml.rules.repository;
+package com.iesemilidarder.xml.rules.data.repository;
 
 import com.iesemilidarder.xml.rules.data.User;
 import com.mongodb.client.result.UpdateResult;
